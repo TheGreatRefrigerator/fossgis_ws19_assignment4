@@ -1,0 +1,5 @@
+.idea
+*.txt
+GrassDB
+
+.DS_Store
